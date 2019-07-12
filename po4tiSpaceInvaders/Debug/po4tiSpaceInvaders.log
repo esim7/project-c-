@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(47): warning C4309: return: усечение константного значения
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(48): warning C4309: return: усечение константного значения
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(49): warning C4309: return: усечение константного значения
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(50): warning C4309: return: усечение константного значения
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\level.h(51): warning C4309: return: усечение константного значения
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\Game.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\Game.cpp(43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\Game.cpp(49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\Game.cpp(55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  gameObject.cpp
+  gameRender.cpp
+  po4tiSpaceInvaders.cpp
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\Menu.h(36): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\Menu.h(87): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\home\source\repos\po4tiSpaceInvaders\po4tiSpaceInvaders\MainTheme.h(33): warning C4129: : неизвестная escape-последовательность
+  Создание кода...
+  po4tiSpaceInvaders.vcxproj -> C:\Users\home\source\repos\po4tiSpaceInvaders\Debug\po4tiSpaceInvaders.exe
